@@ -1,0 +1,17 @@
+body {
+    background-color: #aaa;
+}
+::selection {
+    background: #ACC2D4;
+}
+div.login {
+    background-color: #777;
+    padding: 10px;
+    margin: 0 auto;
+    width: 400px;
+    align-content: center;
+}
+a {
+    font-family: sans-serif;
+    font-size: 18px;
+}
